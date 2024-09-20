@@ -1,4 +1,4 @@
-package Sept.exe_09092024;
+package Sept.ex_09092024;
 
 public class Lab011 {
     public static void main(String[] args) {
