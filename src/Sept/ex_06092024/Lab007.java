@@ -9,5 +9,13 @@ public class Lab007 {
         * comment 2
         * comment 3
         * */
+        //single line comment//
+        /* Multi line
+         */
+
+        /** Documentation
+         *
+         *
+         */
 }
 }
