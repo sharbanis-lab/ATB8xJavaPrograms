@@ -2,7 +2,7 @@ package Sept.ex_13092024;
 
 public class Task1_13092024 {
     public static void main(String[] args) {
-        //print table pf 10 - Task for 13 Sep
+        //print table of 10 - Task for 13 Sep
 
         int num = 10;
 
