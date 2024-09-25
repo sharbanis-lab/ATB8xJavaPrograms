@@ -1,11 +1,12 @@
 package Sept.ex_13092024;
 
-public class Task2_13092024 {
+public class Lab028 {
     public static void main(String[] args) {
         //Prepare a small calculator, which supports +, - , , / and %(?) - Modulus operator
         //double a = 34;
         //double b = 10;
         //Print - a+b, a-b, ab, a/b, a%b all the outputs.
+        //Modulus not done in this
 
         double a = 34;
         double b = 10;
@@ -17,10 +18,5 @@ public class Task2_13092024 {
         System.out.printf ("Multiplication of two numbers (a*b) is %f*%f =%f", a, b, a*b);
         System.out.println();
         System.out.printf ("Division of two numbers (a/b) is %f/%f =%f", a, b, a/b);
-        System.out.println();
-        System.out.print("Modulus of two numbers a and b is ");
-        System.out.print(a%b);
-
     }
 }
-
